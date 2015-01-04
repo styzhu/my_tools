@@ -8,7 +8,6 @@ Created on Jan 4, 2015
 
 import sys
 
-
 print "File location: ", sys.argv[1]
 
 with open(sys.argv[1], "r") as f:
